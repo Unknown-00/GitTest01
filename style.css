@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: rgb(34, 33, 33);
+  height: 100px;
+  color: rgb(255, 255, 255);
+}
+
+.nav {
+  background-color: aquamarine;
+  height: 50px;
+}
+
+.body {
+  background-color: rgb(214, 168, 108);
+  height: 50px;
+}
